@@ -1,2 +1,2 @@
 # Kaggle-Data-Cleaning
-Kiyin jazyp koiom
+Here just the materials and Hands-on from Kaggle
